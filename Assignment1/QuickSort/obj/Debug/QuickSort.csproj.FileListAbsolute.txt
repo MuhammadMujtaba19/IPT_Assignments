@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\IPTAssignment\QuickSort\bin\Debug\QuickSort.dll
+C:\Users\User\source\repos\IPTAssignment\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\User\source\repos\IPTAssignment\QuickSort\obj\Debug\QuickSort.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IPTAssignment\QuickSort\obj\Debug\QuickSort.dll
+C:\Users\User\source\repos\IPTAssignment\QuickSort\obj\Debug\QuickSort.pdb

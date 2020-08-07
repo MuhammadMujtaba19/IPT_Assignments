@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Courses>
+  <Course code="303" name="Software Enginneering">
+    <description>Software engineering is the systematic application of engineering approaches to the development of software.Software engineering is a branch of computing science.</description>
+    <StudentsEnrolled>45</StudentsEnrolled>
+  </Course>
+  <Course code="495" name="Computer Vision">
+    <description>Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos.</description>
+    <StudentsEnrolled>18</StudentsEnrolled>
+  </Course>
+  <Course code="101" name="Programming Fundamentals">
+    <description>
+      Fundamentals involves activities such as analysis; developing understanding; generating algorithms; verifying the requirements of algorithms, including their correctness and resources consumption; and implementation (commonly referred to as coding) of algorithms in a C language.
+    </description>
+    <StudentsEnrolled>150</StudentsEnrolled>
+  </Course>
+  <Course code="481" name="Data Science">
+    <description> Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, deep learning and big data</description>
+    <StudentsEnrolled>40</StudentsEnrolled>
+  </Course>
+  <Course code="250" name="Database systems">
+    <description>A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.</description>
+    <StudentsEnrolled>79</StudentsEnrolled>
+  </Course>
+</Courses>

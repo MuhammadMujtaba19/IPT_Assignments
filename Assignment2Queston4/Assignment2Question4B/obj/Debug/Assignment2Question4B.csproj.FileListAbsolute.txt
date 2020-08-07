@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Question4B\bin\Debug\Assignment2Question4B.exe.config
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Question4B\bin\Debug\Assignment2Question4B.exe
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Question4B\bin\Debug\Assignment2Question4B.pdb
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Question4B\obj\Debug\Assignment2Question4B.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Question4B\obj\Debug\Assignment2Question4B.exe
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Question4B\obj\Debug\Assignment2Question4B.pdb
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Question4B\obj\Debug\Assignment2Question4B.ProjectInstaller.resources
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Question4B\obj\Debug\Assignment2Question4B.csproj.GenerateResource.cache

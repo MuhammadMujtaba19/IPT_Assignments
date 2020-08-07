@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\IPTAssignment\Question6\bin\Debug\netcoreapp3.1\Question4.exe
+C:\Users\User\source\repos\IPTAssignment\Question6\bin\Debug\netcoreapp3.1\Question6.exe
+C:\Users\User\source\repos\IPTAssignment\Question6\bin\Debug\netcoreapp3.1\Question6.deps.json
+C:\Users\User\source\repos\IPTAssignment\Question6\bin\Debug\netcoreapp3.1\Question6.runtimeconfig.json
+C:\Users\User\source\repos\IPTAssignment\Question6\bin\Debug\netcoreapp3.1\Question6.runtimeconfig.dev.json
+C:\Users\User\source\repos\IPTAssignment\Question6\bin\Debug\netcoreapp3.1\Question6.dll
+C:\Users\User\source\repos\IPTAssignment\Question6\bin\Debug\netcoreapp3.1\Question6.pdb
+C:\Users\User\source\repos\IPTAssignment\Question6\bin\Debug\netcoreapp3.1\Question4.dll
+C:\Users\User\source\repos\IPTAssignment\Question6\bin\Debug\netcoreapp3.1\Question4.pdb
+C:\Users\User\source\repos\IPTAssignment\Question6\obj\Debug\netcoreapp3.1\Question6.csprojAssemblyReference.cache
+C:\Users\User\source\repos\IPTAssignment\Question6\obj\Debug\netcoreapp3.1\Question6.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IPTAssignment\Question6\obj\Debug\netcoreapp3.1\Question6.AssemblyInfo.cs
+C:\Users\User\source\repos\IPTAssignment\Question6\obj\Debug\netcoreapp3.1\Question6.csproj.CopyComplete
+C:\Users\User\source\repos\IPTAssignment\Question6\obj\Debug\netcoreapp3.1\Question6.dll
+C:\Users\User\source\repos\IPTAssignment\Question6\obj\Debug\netcoreapp3.1\Question6.pdb

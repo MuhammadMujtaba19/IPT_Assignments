@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Assignment2Question3\bin\Debug\Assignment2Question3.exe.config
+C:\Users\User\source\repos\Assignment2Question3\bin\Debug\Assignment2Question3.exe
+C:\Users\User\source\repos\Assignment2Question3\bin\Debug\Assignment2Question3.pdb
+C:\Users\User\source\repos\Assignment2Question3\obj\Debug\Assignment2Question3.exe
+C:\Users\User\source\repos\Assignment2Question3\obj\Debug\Assignment2Question3.pdb
+C:\Users\User\source\repos\Assignment2Question3\obj\Debug\Assignment2Question3.ProjectInstaller.resources
+C:\Users\User\source\repos\Assignment2Question3\obj\Debug\Assignment2Question3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Assignment2Question3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Assignment2Question3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Assignment2Question3\obj\Debug\Assignment2Question3.csproj.CopyComplete
+C:\Users\User\source\repos\Assignment2Question3\obj\Debug\Assignment2Question3.csprojAssemblyReference.cache

@@ -1,0 +1,740 @@
+﻿Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Creating EventLog source A2Question4A in log Application...
+Rolling back assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Restoring event log to previous state for source A2Question4A.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Creating EventLog source A2Question4A in log Application...
+Rolling back assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Restoring event log to previous state for source A2Question4A.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Creating EventLog source A2Question4A in log Application...
+Rolling back assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Restoring event log to previous state for source A2Question4A.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Attempt to stop service A2Question4A.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Attempt to stop service A2Question4A.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Attempt to stop service A2Question4A.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Attempt to stop service A2Question4A.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Attempt to stop service A2Question4A.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Attempt to stop service A2Question4A.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Attempt to stop service A2Question4A.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Attempt to stop service A2Question4A.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.
+Installing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Installing service A2Question4A...
+Service A2Question4A has been successfully installed.
+Creating EventLog source A2Question4A in log Application...
+Committing assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Uninstalling assembly 'C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.InstallLog
+   assemblypath = C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+Removing EventLog source A2Question4A.
+Service A2Question4A is being removed from the system...
+Service A2Question4A was successfully removed from the system.

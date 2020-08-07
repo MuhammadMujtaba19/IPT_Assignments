@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe.config
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.exe
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Assignment2Queston4A.pdb
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\obj\Debug\Assignment2Queston4A.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\obj\Debug\Assignment2Queston4A.ProjectInstaller.resources
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\obj\Debug\Assignment2Queston4A.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\obj\Debug\Assignment2Queston4A.exe
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\obj\Debug\Assignment2Queston4A.pdb
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Assignment2Queston4\Assignment2Queston4A\obj\Debug\Assignment2Queston4A.csproj.CopyComplete
